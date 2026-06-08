@@ -73,6 +73,9 @@
 
 2. 绑定 KV 命名空间：
    - 在 `设置`选项卡中选择 `绑定` > `+ 添加` > `KV 命名空间`，然后选择一个已有的命名空间或创建一个新的命名空间进行绑定。
+
+---
+Deployed via Cloudflare Pages
    - `变量名称`填写**KV**，然后点击 `保存`后重试部署即可。
 
 3. 给 Pages绑定 CNAME自定义域：[视频教程](https://www.youtube.com/watch?v=LeT4jQUh8ok&t=851s)
